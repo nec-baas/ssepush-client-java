@@ -14,7 +14,7 @@
 
     <groupId>com.nec.baas.ssepush</groupId>
     <artifactId>ssepush-client</artifactId>
-    <version>7.0.0</version>
+    <version>7.5.0</version>
     <packaging>jar</packaging>
     <name>com.nec.baas.ssepush:ssepush-client</name>
     <description>NEC Mobile Backend Platform SSE Push Java Library</description>
